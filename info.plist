@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Ruby Flexmock</string>
+	<key>ordering</key>
+	<array>
+		<string>4878A8E4-FBE7-4418-A995-547D89B07768</string>
+		<string>F46FDA1E-D9A2-450C-80D1-1903E4AFF767</string>
+		<string>9286FCB4-5700-4813-A5E9-F85F8B53FCAE</string>
+		<string>E616A52A-94EE-4FD5-AA6D-D9A02937A89D</string>
+		<string>E8B75AF6-0E04-4C1E-B07D-9E96279DA228</string>
+	</array>
+	<key>uuid</key>
+	<string>B345BC93-A2CF-40C2-A275-0A1A49F17D60</string>
+</dict>
+</plist>
