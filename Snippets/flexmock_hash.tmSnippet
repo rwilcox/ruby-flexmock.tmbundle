@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>flexmock(${1:Something}).should$0</string>
+	<string>flexmock(${1:Something}, :$0)</string>
 	<key>name</key>
-	<string>flexmock(object) should builder</string>
+	<string>flexmock(object, :symbol =&gt; res)</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>flex</string>
 	<key>uuid</key>
-	<string>FD52C25C-B925-4AC5-BC50-A55468D6FCE5</string>
+	<string>AF539D54-3262-4D73-AB89-1BC99F8C0FA6</string>
 </dict>
 </plist>
